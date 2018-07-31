@@ -1,0 +1,17 @@
+Estos son los controles nativos en la mayoría de las versiones del emulador CITRA!
+Puede variar dependiendo de la construcción usada.
+
+A = A
+S = B
+Z = X
+X = Y
+N = START
+M = SELECT
+Q = L
+W = R
+1 = ZL
+2 = ZR
+IJKL = C-Stick (La pequeña en la nueva 3DS)
+TFGH = D-Pad
+
+NOTA: CITRA AUN NO SOPORTA PANTALLA TACTIL

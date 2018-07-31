@@ -1,0 +1,22 @@
+These are the native conrols on most versions of the CITRA emulator!
+May vary depending on the build used. 
+
+A = A
+S = B
+Z = X
+X = Y
+N = START
+M = SELECT
+Q = L
+W = R
+1 = ZL
+2 = ZR
+IJKL = C-Stick (the small one on the NEW 3DS)
+TFGH = D-Pad
+
+
+Brought to you by
+www.SimplyAustin.tv
+
+
+
