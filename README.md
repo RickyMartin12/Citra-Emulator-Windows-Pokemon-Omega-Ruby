@@ -10,7 +10,7 @@ Link: https://citra-emu.org/download/#
 
 ### ROM - Pokemon Omega Ruby
 
-- Link: 
+- Link: https://meocloud.pt/link/48046e5d-a334-47e1-90d9-9a92d4e44336/1325%20-%20Pokemon%20Omega%20Ruby%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CKo%29%20Decrypted.3ds/
 
 ### Screenshoots
 
